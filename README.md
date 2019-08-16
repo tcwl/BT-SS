@@ -7,7 +7,7 @@
 
 <h2>安装</h2>
 <p>git clone https://github.com/tcwl/BT-SS</p>
-<p>cd btpanel-ss</p>
+<p>cd BT-SS</p>
 <p>bash install.sh install</p>
 
 <h2>卸载</h2>
